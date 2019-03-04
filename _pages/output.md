@@ -5,7 +5,7 @@ permalink: /output/
 ---
 
 
-[All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
+[All People Are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
